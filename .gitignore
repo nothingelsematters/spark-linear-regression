@@ -1,0 +1,7 @@
+.bsp
+.DS_Store
+.idea
+
+build
+out
+target
